@@ -1,5 +1,5 @@
-### Hi there 👋
-Victoria 2 modder, 3rd year math student, has some knowledge of Python, R, SQL, Tableau.
+### Hi there, I'm Jason 👋
+Victoria 2 modder. 3rd year math student. Has some knowledge of Python, R, SQL, Tableau. Interested in Machine Learning algorithms.
 <!--
 **LePetitJayJay/LePetitJayJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
